@@ -1,4 +1,15 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Eymeric aka Kirecprod</h1>  
+<h3 align="center">I'm Programer and Games Designer</h3>  
+  
+- 🔭 I’m currently working on [Ohrond-development](https://github.com/ohrond-development)  
+  
+- 🌱 I’m currently learning **IT at Home**  
+  
+- 💬 Ask me about **Web, JS, Java, C**  
+
+---
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kirecprod)    
+![kirecprod's GitHub stats](https://github-readme-stats.vercel.app/api?username=kirecprod&show_icons=true)
 
 <!--
 **kirecprod/kirecprod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
