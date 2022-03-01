@@ -8,8 +8,7 @@
 - 💬 Ask me about **Web, JS, Java, C**  
 
 ---
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kirecprod)    
-![kirecprod's GitHub stats](https://github-readme-stats.vercel.app/api?username=kirecprod&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kirecprod&theme=radical&count_private=true)  ![kirecprod's GitHub stats](https://github-readme-stats.vercel.app/api?username=kirecprod&show_icons=true&theme=radical&count_private=true)
 
 <!--
 **kirecprod/kirecprod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
