@@ -5,6 +5,8 @@
   
 - 🌱 I’m currently learning **at Home**
 
+---
+
 <h3 align="center">Langages</h3>
 <p align="center">
   <a href="https://www.java.com" target="_blank"> 
@@ -24,6 +26,8 @@
   </a>
 </p>
   
+  ---
+  
 <h3 align="center">OS</h3>
 <p align="center">
   <a href="https://www.apple.com/macos" target="_blank">
@@ -39,6 +43,8 @@
   </a>
 </p>
 
+---
+
 <h3 align="center">IDE & Outils préférés</h3>
 <p align="center"> 
   <a href="https://www.jetbrains.com/" target="_blank">
@@ -50,6 +56,8 @@
   <a href="https://eclipse.org" target="_blank">
     <img src="https://img.shields.io/badge/eclipse-2C2255.svg?style=for-the-badge&logo=eclipse&logoColor=white" alt="eclipse IDE"/> 
 </p>
+  
+  ---
   
 <h3 align="center">Mes Réseaux</h3>
 
@@ -67,3 +75,4 @@
 
 ---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kirecprod&theme=radical&count_private=true)  ![kirecprod's GitHub stats](https://github-readme-stats.vercel.app/api?username=kirecprod&show_icons=true&theme=radical&count_private=true)
+---
