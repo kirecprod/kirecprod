@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eymeric aka Kirecprod</h1>  
 <h3 align="center">I'm Programer and Games Designer</h3> 
 
-- 🔭 I’m currently working on [Ohrond-development](https://github.com/ohrond-development)  
+- 🔭 I’m currently working on [Ohr-dev](https://github.com/ohr-dev)  
   
 - 🌱 I’m currently learning **at Home**
 
