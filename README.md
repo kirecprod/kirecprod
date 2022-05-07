@@ -24,6 +24,9 @@
     <img src="https://img.shields.io/badge/Javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"
       alt="javascript"/> 
   </a>
+  <a href="https://sass-lang.com/" target="_blank">
+    <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" alt="SASS"/>
+  </a>
 </p>
   
   ---
@@ -54,7 +57,14 @@
     <img src="https://img.shields.io/badge/vscode-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="vsCode"/> 
   </a>
   <a href="https://eclipse.org" target="_blank">
-    <img src="https://img.shields.io/badge/eclipse-2C2255.svg?style=for-the-badge&logo=eclipse&logoColor=white" alt="eclipse IDE"/> 
+    <img src="https://img.shields.io/badge/eclipse-2C2255.svg?style=for-the-badge&logo=eclipse&logoColor=white" alt="eclipse IDE"/>
+  </a>
+  <a href="https://eclipse.org" target="_blank">
+    <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" alt="Adobe XD"/>
+  </a>
+  <a href="https://www.vim.org" target="_blank">
+    <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white" alt="VIM"/>
+  </a>
 </p>
   
   ---
@@ -69,8 +79,16 @@
     <a href="https://www.youtube.com/channel/UCFQ8bt-4-EvDgs0NsW86tkQ" target="_blank">
       <img src="https://img.shields.io/badge/youtube-FE0002.svg?style=for-the-badge&logo=youtube&logoColor=white" alt="youtube"/>
     </a>
+    <a href="#" target="_blank">
+      <img src="https://img.shields.io/badge/kirecprod-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+    </a> 
+    <a href="https://instagram.com/kirecprod" target="_blank">
+      <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="instagram"/>
+    </a>
   </div>
 </div>
+
+
   
 
 ---
