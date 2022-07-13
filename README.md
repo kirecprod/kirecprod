@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Ohr-dev](https://github.com/ohr-dev)  
   
-- 🌱 I’m currently working learning **at Home**
+- 🌱 I’m currently working and learning **at Home**
 
 ---
 
