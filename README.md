@@ -76,9 +76,9 @@
     <a href="https://www.youtube.com/channel/UCFQ8bt-4-EvDgs0NsW86tkQ" target="_blank">
       <img src="https://img.shields.io/badge/youtube-FE0002.svg?style=for-the-badge&logo=youtube&logoColor=white" alt="youtube"/>
     </a>
-    <a href="#" target="_blank">
+    <!-- <a href="#" target="_blank">
       <img src="https://img.shields.io/badge/kirecprod-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-    </a> 
+    </a> -->
     <a href="https://instagram.com/kirecprod" target="_blank">
       <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="instagram"/>
     </a>
