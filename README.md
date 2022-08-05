@@ -62,9 +62,6 @@
   <a href="https://eclipse.org" target="_blank">
     <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" alt="Adobe XD"/>
   </a>
-  <a href="https://www.vim.org" target="_blank">
-    <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white" alt="VIM"/>
-  </a>
 </p>
   
   ---
