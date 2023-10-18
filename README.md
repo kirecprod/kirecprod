@@ -5,7 +5,7 @@
   
 - 🌱 I’m currently working and learning **at Home**
 
-- 🚑 I'm rescue team member at FFSS 75
+- 🚑 I'm rescue team member **at FFSS 75**
 
 ---
 
