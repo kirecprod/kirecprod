@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eymeric aka Kirecprod</h1>  
 <h3 align="center">I'm junior Programer and Web Designer</h3> 
-  
-- 🌱 I’m currently working and learning **at Home**
+
+- ⚕️ Nurse Student
 
 - 🚑 I'm rescue team member **at FFSS 75**
 
