@@ -3,8 +3,6 @@
 
 - ⚕️ Nurse Student
 
-- 🚑 I'm rescue team member **at FFSS 75**
-
 ---
 
 <h3 align="center">Langages</h3>
