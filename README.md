@@ -61,27 +61,6 @@
     <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" alt="Adobe XD"/>
   </a>
 </p>
-  
-  ---
-  
-<h3 align="center">Mes Réseaux</h3>
-
-<div style="margin-top:10px" align="center">
-  <div>
-    <a href="https://twitter.com/kirecprodYT" target="_blank">
-      <img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"/>
-    </a>
-    <a href="https://www.youtube.com/channel/UCFQ8bt-4-EvDgs0NsW86tkQ" target="_blank">
-      <img src="https://img.shields.io/badge/youtube-FE0002.svg?style=for-the-badge&logo=youtube&logoColor=white" alt="youtube"/>
-    </a>
-    <!-- <a href="#" target="_blank">
-      <img src="https://img.shields.io/badge/kirecprod-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-    </a> -->
-    <a href="https://instagram.com/kirecprod" target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="instagram"/>
-    </a>
-  </div>
-</div>
 
   ---
 ![kirecprod's GitHub stats](https://github-readme-stats.vercel.app/api?username=kirecprod&show_icons=true&theme=radical&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kirecprod&theme=radical&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)  
