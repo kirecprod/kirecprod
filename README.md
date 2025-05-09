@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Eymeric aka Kirecprod</h1>  
-<h3 align="center">I'm junior Programer and Web Designer</h3> 
+<h3 align="center">I'm Programer and Web Developper</h3> 
 
 - ⚕️ Nurse Student
+- Specialized in javascript
 
 ---
 
@@ -54,14 +55,8 @@
   <a href="https://code.visualstudio.com/" target="_blank">
     <img src="https://img.shields.io/badge/vscode-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="vsCode"/> 
   </a>
-  <a href="https://eclipse.org" target="_blank">
-    <img src="https://img.shields.io/badge/eclipse-2C2255.svg?style=for-the-badge&logo=eclipse&logoColor=white" alt="eclipse IDE"/>
-  </a>
-  <a href="https://eclipse.org" target="_blank">
-    <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" alt="Adobe XD"/>
-  </a>
 </p>
 
-  ---
+  <!--
 ![kirecprod's GitHub stats](https://github-readme-stats.vercel.app/api?username=kirecprod&show_icons=true&theme=radical&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kirecprod&theme=radical&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)  
-  ---
+  -->
